@@ -19,6 +19,7 @@ El proyecto final incluye tres archivos principales:
 ├── estilos.css         # Estilos visuales aplicados a la maqueta.
 ├── mantenimiento.html  # Página a la que redireccionan ciertos botones o enlaces.
 └── assets/             # Carpeta opcional para almacenar imágenes, íconos u otros recursos estáticos.
+```
 
 ## Screenshots del Modelo Cloudflex
-![App Screenshot](./web2.png)
+![App Screenshot](./cloudflex.png)
