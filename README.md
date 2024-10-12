@@ -22,4 +22,5 @@ El proyecto final incluye tres archivos principales:
 ```
 
 ## Screenshots del Modelo Cloudflex
+![App Screenshot](./cloudflex2.png)
 ![App Screenshot](./cloudflex.png)
