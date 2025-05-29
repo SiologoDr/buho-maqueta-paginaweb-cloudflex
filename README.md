@@ -2,7 +2,13 @@
 
 Este proyecto es una implementación de la maqueta **Cloudflex**, diseñada como parte de una práctica de front-end en la empresa **Búho**. Se nos dio a elegir entre dos maquetas proporcionadas por la empresa (Cloudflex y Ofsp_ce), y este repositorio contiene la maqueta final de Cloudflex.
 
-## Descripción del proyecto
+## 🌐 Vista en Línea
+
+Accede al proyecto desplegado en GitHub Pages aquí:  
+🔗 **[Ver Cloudflex en línea](https://siologodr.github.io/buho-maqueta-paginaweb-cloudflex/)**
+
+
+## 📄 Descripción del proyecto
 
 Durante el curso de 5 semanas, el gerente revisaba y evaluaba semanalmente el progreso del proyecto, proporcionando retroalimentación y calificaciones a los practicantes de front-end. 
 
@@ -12,7 +18,7 @@ El proyecto final incluye tres archivos principales:
 - **estilos.css**: Define la parte visual y el diseño de la página.
 - **mantenimiento.html**: Página de mantenimiento que sirve para redireccionar enlaces o botones a esta sección.
 
-## Estructura del proyecto
+## 📁 Estructura del proyecto
 
 ```bash
 ├── index.html          # Página principal con la estructura general del proyecto.
